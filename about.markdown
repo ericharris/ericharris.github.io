@@ -8,7 +8,7 @@ This is an overview that acts as an easy reference for those who are helping me 
 
 # Who I am
 
-I'm a US-based (Arizona), engineering manager and technical lead with 25 years of professional engineering experience.
+I'm a US-based (Arizona) engineering manager and technical lead with 25 years of professional engineering experience.
 
 I've worked remotely for over 6 years, most recently leading fully-remote full-stack, cross-functional teams. Additionally, I've helped mature engineering organizations through implementing standards, developing career ladders, and leading company wide inititatives focused on employee growth and engagement.
 
