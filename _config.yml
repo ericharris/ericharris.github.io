@@ -18,24 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eric Harris
-# email: eric@itfargo.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ericharris.dev" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  ericharris
+# title: Eric Harris
+# author: Eric Harris
+# # email: eric@itfargo.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://ericharris.dev" # the base hostname & protocol for your site, e.g. http://example.com
+# # twitter_username: jekyllrb
+# github_username:  ericharris
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
+
 # Use remote-theme plugin to load `minima` repository. But first, ensure the `theme` key is disabled.
 # theme: minima
-remote_theme: "daattali/beautiful-jekyll"
+
+
 
 
 # Exclude from processing.
@@ -58,19 +62,91 @@ remote_theme: "daattali/beautiful-jekyll"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-minima:
-  skin: auto
-  show_excerpts: true
-  social_links:
-    - title: Eric at GitHub
-      icon: github
-      url: https://github.com/ericharris
-    - title: Eric at Bluesky
-      icon: bluesky
-      url: https://bsky.app/profile/phxgeek.bsky.social
+# minima theme:
+# remote_theme: jekyll/minima
+# minima:
+#   skin: auto
+#   show_excerpts: true
+#   social_links:
+#     - title: Eric at GitHub
+#       icon: github
+#       url: https://github.com/ericharris
+#     - title: Eric at Bluesky
+#       icon: bluesky
+#       url: https://bsky.app/profile/phxgeek.bsky.social
 
-# alternat theme
+# beautiful-jekyll theme
+remote_theme: "daattali/beautiful-jekyll"
+title: "Eric Harris"
+author: "Eric Harris"
+avatar: /assets/img/EricHeadshot.jpg
+
+navbar-links:
+  About Me: "about"
+
+share-links-active:
+  linkedin: true
+
 social-network-links:
+  linkedin: phxgeek
   github: ericharris
   bluesky: phxgeek
   mastodon: hachyderm.io/@phxgeek
+
+navbar-col: "#6eaaf4"
+navbar-text-col: "#FFFFFF"
+
+# # minimal-mistakes theme
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# author:
+#   name: "Eric Harris"
+#   avatar: "/assets/img/EricHeadshot.jpg"
+#   bio: "something about me"
+#   location: "Phoenix Metro, Arizona"
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/ericharris"
+#     - label: "Bluesky"
+#       icon: "fab fa-fw fa-bluesky"
+#       url: "https://bsky.app/profile/phxgeek.bsky.social"
+
+# # Site Settings
+# locale                   : "en-US"
+# rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+# title                    : "EricHarris.dev"
+# title_separator          : "-"
+# subtitle                 : # site tagline that appears below site title in masthead
+# name                     : "Eric Harris"
+# description              : "My personal site"
+# url                      : "https://ericharris.dev" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : # the subpath of your site, e.g. "/blog"
+# repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+# teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+# masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs              : # true, false (default)
+# words_per_minute         : 200
+# enable_copy_code_button  : # true, false (default)
+# copyright                : # "copyright" name, defaults to site.title
+# copyright_url            : # "copyright" URL, defaults to site.url
+
+# # Navigation
+# main:
+#   - title: "About Me"
+#     url
+
+# # Defaults
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: # true
+#       share: true
+#       related: true

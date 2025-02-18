@@ -2,11 +2,11 @@
 layout: post
 title:  "Technical Leadership Growth Resources"
 date:   2025-02-14 14:33:13 -0700
-categories: jekyll update
 ---
 
 
-> This list was developed when I worked at Bellese Technologies to help with professional growth of our engineers. If you have suggestions for it, feel free to reach out!
+{: .box-note}
+This list was developed when I worked at Bellese Technologies to help with professional growth of our engineers. If you have suggestions for it, feel free to reach out!
 
 In your growth as an engineer, particularly in Senior+ and Tech Lead roles, you may need resources to continue your growth whether on the independent contributor or management track.
 
