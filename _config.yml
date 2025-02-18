@@ -83,15 +83,16 @@ avatar: /assets/img/EricHeadshot.jpg
 
 navbar-links:
   About Me: "about"
+  Resume: "/assets/files/EricHarrisResume.pdf"
 
 share-links-active:
   linkedin: true
 
 social-network-links:
   linkedin: phxgeek
-  github: ericharris
-  bluesky: phxgeek
+  bluesky: phxgeek.bsky.social
   mastodon: hachyderm.io/@phxgeek
+  github: ericharris
 
 navbar-col: "#6eaaf4"
 navbar-text-col: "#FFFFFF"
