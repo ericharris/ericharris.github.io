@@ -37,14 +37,13 @@ My focus is on mission-driven companies in the private sector. I have a strong p
 * **People-first** - I thrive in environments that prioritize empathy, intelligence, and community in the workplace
 * **Inclusivity** - I want to work in an organization that treats inclusion and acceptance as part of their values
 * **Private sector** - I am looking for work outside of government/civic tech for now 
-* **Established work** - I prefer companies that are bootstrapped or in late-stage funding rounds, ideally founded at least 8 years ago
 * **Humane work/life balance** - I am fully present and engaged during work hours and enjoy a full, rich life outside of work. One feeds the other and I appreciate companies that support that.
 
 # What I don't want
 
-* Early-stage startups or pre-seed companies
 * Government or civic tech roles right now
 * Fully in-office or hybrid positions
 * Individual contributor (IC) roles or leadership roles that require significant hands-on coding
 * Roles requiring significant travel
 * Consulting or contract positions
+* Very early-stage startups or pre-seed companies
