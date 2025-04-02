@@ -22,9 +22,8 @@ Salary range is **$200k-250k+** per year, depending on title and responsibility.
 
 ## Roles I’m seeking
 
-* Sr. Engineering Manager
-* CTO / Director / Vice President roles in Engineering
-* Engineering Manager
+* Sr. Engineering Manager / Engineering Manager
+* CTO / Director / Vice President roles focused on growing and maturing an earlier Engineering organization
 * Team Lead
 
 ## What I want to do 
@@ -35,7 +34,7 @@ My focus is on mission-driven companies in the private sector. I have a strong p
 
 * **Remote work** is a must - I do my best work when I have control of my work environment
 * **People-first** - I thrive in environments that prioritize empathy, intelligence, and community in the workplace
-* **Inclusivity** - I want to work in an organization that treats inclusion and acceptance as part of their values
+* **Inclusivity** - I want to work in an organization that treats inclusion and equity as part of their values
 * **Private sector** - I am looking for work outside of government/civic tech for now 
 * **Humane work/life balance** - I am fully present and engaged during work hours and enjoy a full, rich life outside of work. One feeds the other and I appreciate companies that support that.
 
