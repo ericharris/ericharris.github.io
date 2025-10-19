@@ -18,7 +18,7 @@ People have told me that I'm their favorite manager and team lead. I empower tea
 
 Full-time, remote opportunities in **leadership roles**. While not preferred, I am open to looking at interesting Individual Contributor (IC) opportunities. 
 
-Salary range is **$200k-250k+** per year, depending on title and responsibility. 
+Salary range is **$200k-220k+** per year, depending on title and responsibility. 
 
 ## Roles I’m seeking
 
@@ -45,4 +45,3 @@ My focus is on mission-driven companies in the private sector. I have a strong p
 * Individual contributor (IC) roles or leadership roles that require significant hands-on coding
 * Roles requiring significant travel
 * Consulting or contract positions
-* Very early-stage startups or pre-seed companies
