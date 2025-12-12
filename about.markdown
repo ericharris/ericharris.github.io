@@ -18,7 +18,7 @@ People have told me that I'm their favorite manager and team lead. I empower tea
 
 Full-time, remote opportunities in **leadership roles**. While not preferred, I am open to looking at interesting Individual Contributor (IC) opportunities. 
 
-Salary range is **$200k-220k+** per year, depending on title and responsibility. 
+Salary range is **$190k-220k+** per year, depending on title, responsibility, and benefits. 
 
 ## Roles I’m seeking
 
@@ -40,7 +40,7 @@ My focus is on mission-driven companies in the private sector. I have a strong p
 
 # What I don't want
 
-* Government or civic tech roles right now
+* Government contracting roles right now
 * Fully in-office or hybrid positions
 * Individual contributor (IC) roles or leadership roles that require significant hands-on coding
 * Roles requiring significant travel
